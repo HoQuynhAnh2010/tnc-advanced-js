@@ -1,0 +1,23 @@
+{
+  "name": "tnc-js",
+  "version": "1.0.0",
+  "description": "Advanced JS Course with Trang Nguyen Code",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon ./script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victhangnguyen"
+  },
+  "keywords": [
+    "advanced",
+    "js"
+  ],
+  "author": "victhangnguyen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
